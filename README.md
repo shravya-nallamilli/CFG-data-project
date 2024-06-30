@@ -1,2 +1,1 @@
-# codefirstgirls
-CFG temperature data project on three locations
+Code first girls tempreture data project
