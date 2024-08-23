@@ -11,7 +11,7 @@ Team: Shravya Nallamilli, Brenda Org & Louise Smith
 This project involves analysing weather data for three UK locations (London, Swansea, and Preston) over the years 2016 to 2024. 
 
 ## Objective
-The main objective of this project was to analyze historical weather data to identify and compare trends in temperature and precipitation across three UK locations: London, Swansea, and Preston.
+The main objective of this project was to analyse historical weather data to identify and compare trends in temperature and precipitation across three UK locations: London, Swansea, and Preston.
 
 ## Project folder structure
 
@@ -61,7 +61,7 @@ Key Observation: London generally has higher average temperatures compared to Sw
  **Interpretation:**
 
 - **London (Green Line)**: London shows a noticeable cyclical pattern of maximum temperatures, peaking around 22-24°C each summer. The dips likely represent the winter months.
-- **Swansea (, Red Line**): Swansea's maximum temperatures are somewhat erratic but generally follow a similar cyclical pattern, with peaks reaching around 20-22°C. P
+- **Swansea (, Red Line**): Swansea's maximum temperatures are somewhat erratic but generally follow a similar cyclical pattern, with peaks reaching around 20-22°C. 
 - **Preston (Blue Line)**: Preston shows lower maximum temperatures compared to London and Swansea, with peaks typically around 18-20°C.
 
 Key Observations: London tends to have the highest maximum temperatures overall, with Preston being cooler on average.
@@ -80,7 +80,7 @@ Key Observations: London stands out as the warmest location, particularly in the
 ### Precipitation Data (2016-2024)
 In the precipitation graph, data is visualised for three locations: London, Swansea, and Preston. However, it is important to note that the precipitation data for all London, Preston, and Swansea is missing for the years 2016 to 2021. As a result, the graph shows flat lines for these 3 locations, which reflect the absence of available data rather than actual precipitation levels.
 
-One of the challenges we faced as a team was the missing precipitation data for London, Swansea and Preston from 2016 to 2021. Although data cleaning was not my task, I worked closely with those responsible to understand the limitations and adapt our visualisations accordingly.
+One of the challenges we faced as a team was the missing precipitation data for London, Swansea and, Preston from 2016 to 2021. Although data cleaning was not my task, I worked closely with those responsible to understand the limitations and adapt our visualisations accordingly.
 
 ### My Role
 In this group project, my primary responsibilities included:
