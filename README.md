@@ -1,6 +1,6 @@
 # Weather Data Analysis- CFG Final Project☁️
 
-![Example Image]([https://github.com/username/repository/raw/main/image.png](https://github.com/shravya-nallamilli/CFG-data-project/blob/024d9bcc351b00ce6c2ce8d203f8b07177dcfb77/GirlsWhoCode.jpeg))
+![Example Image](https://github.com/shravya-nallamilli/CFG-data-project/blob/024d9bcc351b00ce6c2ce8d203f8b07177dcfb77/GirlsWhoCode.jpeg)
 
 **Welcome to our project**!
 
