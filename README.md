@@ -78,9 +78,9 @@ Key Observations: London stands out as the warmest location, particularly in the
 ## Challenges and Future work:
 
 ### Precipitation Data (2016-2024)
-In the precipitation graph, data is visualised for three locations: London, Swansea, and Preston. However, it is important to note that the precipitation data for Swansea and Preston is missing for the years 2016 to 2024. As a result, the graph shows flat lines for these two locations, which reflect the absence of available data rather than actual precipitation levels.
+In the precipitation graph, data is visualised for three locations: London, Swansea, and Preston. However, it is important to note that the precipitation data for all London, Preston, and Swansea is missing for the years 2016 to 2021. As a result, the graph shows flat lines for these 3 locations, which reflect the absence of available data rather than actual precipitation levels.
 
-One of the challenges we faced as a team was the missing precipitation data for Swansea and Preston from 2016 to 2024. Although data cleaning was not my task, I worked closely with those responsible to understand the limitations and adapt our visualisations accordingly.
+One of the challenges we faced as a team was the missing precipitation data for London, Swansea and Preston from 2016 to 2021. Although data cleaning was not my task, I worked closely with those responsible to understand the limitations and adapt our visualisations accordingly.
 
 ### My Role
 In this group project, my primary responsibilities included:
