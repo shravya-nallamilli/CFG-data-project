@@ -44,34 +44,34 @@ The weather data used in this project was sourced from the [Meteostat](https://m
 
 The graphs represent weather data from three UK locations (London, Swansea, and Preston) over the years 2016 to 2024. The data includes maximum and average temperatures, helping to compare the climate patterns across these locations.
 
-**1. Three Separate Average Temperature Graphs (First Image)**
+**1. Average Temperature Graphs (First Image)**
+- **Purpose:** These graphs compare the average temperatures for London, Swansea, and Preston separately.
 
-**Purpose:** These graphs compare the average temperatures for London, Swansea, and Preston separately.
+**Interpretation:** 
 
-**Interpretation:**
+- **London (Green Line)**: Average temperatures range from about 7-20°C, with clear seasonal fluctuations.
+- **Swansea (Red Line)**: Shows similar patterns but with slightly lower average temperatures.
+- **Preston (Blue Line)**: Lowest average temperatures, around 5-18°C
 
-London (Top Graph, Green Line): London has average temperatures ranging from about 7-20°C, with clear seasonal fluctuations. Swansea (Middle Graph, Red Line): Swansea shows a similar pattern, though with slightly lower average temperatures compared to London. Preston (Bottom Graph, Blue Line): Preston has the lowest average temperatures, ranging from around 5-18°C.
+Key Observation: London generally has higher average temperatures compared to Swansea and Preston.
 
-Key Observations: As with maximum temperatures, London generally has higher average temperatures compared to Swansea and Preston.
+**2.  Maximum Temperature Graphs (Second Image)**
+   - **Purpose**: This set of graphs compares the maximum temperatures for London, Swansea, and Preston separately.
 
-**2. Three Separate Maximum Temperature Graphs (Second Image)**
-   
-**Purpose**: This set of graphs compares the maximum temperatures for London, Swansea, and Preston separately.
+ **Interpretation:**
 
-**Interpretation:**
-
-London (Top Graph, Green Line): London shows a noticeable cyclical pattern of maximum temperatures, peaking around 22-24°C each summer. The dips likely represent the winter months. Swansea (Middle Graph, Red Line): Swansea's maximum temperatures are somewhat erratic but generally follow a similar cyclical pattern, with peaks reaching around 20-22°C. Preston (Bottom Graph, Blue Line): Preston shows lower maximum temperatures compared to London and Swansea, with peaks typically around 18-20°C.
+- **London (Green Line)**: London shows a noticeable cyclical pattern of maximum temperatures, peaking around 22-24°C each summer. The dips likely represent the winter months.
+- **Swansea (, Red Line**): Swansea's maximum temperatures are somewhat erratic but generally follow a similar cyclical pattern, with peaks reaching around 20-22°C. P
+- **Preston (Blue Line)**: Preston shows lower maximum temperatures compared to London and Swansea, with peaks typically around 18-20°C.
 
 Key Observations: London tends to have the highest maximum temperatures overall, with Preston being cooler on average.
 
-
 **3. Combined Maximum Temperature Graph (Third Image)**
-
-**Purpose:** This graph overlays the maximum temperature data for all three locations, allowing for direct comparison.
+- **Purpose:** This graph overlays the maximum temperature data for all three locations, allowing for direct comparison.
 
 **Interpretation:**
 
-London consistently has the highest peaks, while Swansea and Preston follow closely with slightly lower maximum temperatures. Seasonal trends, such as warmer summers and cooler winters, are clear across all locations.
+- **London** consistently has the highest peaks, while Swansea and Preston follow closely with slightly lower maximum temperatures. Seasonal trends, such as warmer summers and cooler winters, are clear across all locations.
 
 Key Observations: London stands out as the warmest location, particularly in the summer months, while Preston remains cooler throughout the period.
 
@@ -91,7 +91,7 @@ In this group project, my primary responsibilities included:
 
 ### My Learning Outcomes
 - **Team Collaboration**: This project emphasised the importance of clear communication and coordination within a team, especially when dealing with large datasets and complex analyses.
-- **Data Visualisation**: his project enhanced my skills in data visualization, and further developed my ability to communicate complex data trends effectively to non-technical stakeholders despite the challenges posed by incomplete data.
+- **Data Visualisation**: This project enhanced my skills in data visualisation, and further developed my ability to communicate complex data trends effectively to non-technical stakeholders despite the challenges posed by incomplete data.
 
 ### Future Work
 As a group, we plan to:
@@ -100,19 +100,4 @@ As a group, we plan to:
 
 ### Acknowledgements
 I would like to acknowledge the efforts of my team members who handled data cleaning and other crucial aspects of this project. Their work was integral to the success of our analysis.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
