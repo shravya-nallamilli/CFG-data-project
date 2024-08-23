@@ -78,9 +78,9 @@ Key Observations: London stands out as the warmest location, particularly in the
 ## Challenges and Future work:
 
 ### Precipitation Data (2016-2024)
-In the precipitation graph, data is visualised for three locations: London, Swansea, and Preston. However, it is important to note that the precipitation data for all London, Preston, and Swansea is missing for the years 2016 to 2021. As a result, the graph shows flat lines for these 3 locations, which reflect the absence of available data rather than actual precipitation levels.
+In the precipitation graph, you will notice that data for London, Swansea, and Preston is missing for the years 2016 to 2021. This absence results in flat lines on the graph, which reflect the lack of available data rather than actual precipitation levels.
 
-One of the challenges we faced as a team was the missing precipitation data for London, Swansea and, Preston from 2016 to 2021. Although data cleaning was not my task, I worked closely with those responsible to understand the limitations and adapt our visualisations accordingly.
+The missing precipitation data presented a significant challenge. Although I was not directly responsible for data cleaning, I collaborated closely with the team members who were, to understand the limitations and adapt our visualisations accordingly.
 
 ### My Role
 In this group project, my primary responsibilities included:
@@ -94,9 +94,9 @@ In this group project, my primary responsibilities included:
 - **Data Visualisation**: This project enhanced my skills in data visualisation, and further developed my ability to communicate complex data trends effectively to non-technical stakeholders despite the challenges posed by incomplete data.
 
 ### Future Work
-As a group, we plan to:
-- **Seek Additional Data**: Look for the missing precipitation data to complete our analysis.
-- **Refine Visualisations**: Improve the way we handle and display incomplete data, possibly by using different markers or annotations.
+For completeness, future efforts should focus on:
+-**Seeking Additional Data**: Identifying and acquiring the missing precipitation data from alternative sources.
+-**Improving Visualisations**: Enhancing how incomplete data is presented, possibly by using different markers or annotations to clearly indicate where data is missing.
 
 ### Acknowledgements
 I would like to acknowledge the efforts of my team members who handled data cleaning and other crucial aspects of this project. Their work was integral to the success of our analysis.
