@@ -95,8 +95,9 @@ In this group project, my primary responsibilities included:
 
 ### Future Work
 For completeness, future efforts should focus on:
--**Seeking Additional Data**: Identifying and acquiring the missing precipitation data from alternative sources.
--**Improving Visualisations**: Enhancing how incomplete data is presented, possibly by using different markers or annotations to clearly indicate where data is missing.
+
+- **Seeking Additional Data**: Identifying and acquiring the missing precipitation data from alternative sources.
+- **Improving Visualisations**: Enhancing how incomplete data is presented, possibly by using different markers or annotations to clearly indicate where data is missing.
 
 ### Acknowledgements
 I would like to acknowledge the efforts of my team members who handled data cleaning and other crucial aspects of this project. Their work was integral to the success of our analysis.
